@@ -1,4 +1,4 @@
-# Hi, I'm Swaraj 👋🏻👨🏻‍💻
+# Hi, I'm Swaraj 👋🏻
 
 <img src="Artboard 1savvy_head.png" style="zoom:150%;" />
 
@@ -7,11 +7,7 @@
    <a href="https://twitter.com/swarajpurohit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
    <a href="https://www.instagram.com/savvy_the_fatnerd/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-  </div>
-
-
-
-
+</div>
 
 
 ### Languages
@@ -40,14 +36,14 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
+[![anomius GitHub stats](https://github-readme-stats.vercel.app/api?username=anomius&count_private=true&theme=synthwave&include_all_commits=true&custom_title=how's+your+boy+savvy+doing)](https://github.com/anomius)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anomius&layout=compact&theme=synthwave)](https://github.com/anomius)
+
+
+
+
 <h1 align= center> VIBE WITH ME</h1>
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;">
 
-<div style="grid-child purple;">
-    <a herf="https://twitter.com/swarajpurohit"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=swarajpurohit&layout=wide&show_border=off&show_reply=off"></a>
-</div>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=swarajpurohit&show_reply=off)](https://twitter.com/swarajpurohit) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&redirect=true)
 
-<div style="grid-child purple">
-<a herf="https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default"/></a>
-</div>
-</div>
