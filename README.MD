@@ -16,7 +16,7 @@ I am Swaraj Purohit. I have strong media and communication professional currenty
 - Competed in hackathons
 - Did some stuff in University
 - Can draw some time
-- Kinda invedted in a lot of Anime
+- Kinda invested in a lot of Anime
 - Pizza hunting
 
 ## ♟ One line that describes me best?
