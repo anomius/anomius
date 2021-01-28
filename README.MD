@@ -6,8 +6,7 @@
 
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31zxgih52pzczqo7zks6p2z2ebgm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default)]]
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&redirect=true)
 
 
 
