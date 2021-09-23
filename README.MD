@@ -63,8 +63,15 @@ the guy you wanna be friends with but too weirded out by his hobbies
 <img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default"/></a>
 </div>
 
+
 <br>
 <br>
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <h1 align= center>Peace out ✌🏻</h1>
+
+
+<p align="center">
+  <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
