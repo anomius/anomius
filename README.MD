@@ -13,6 +13,7 @@ I am Swaraj Purohit. I have strong media and communication professional currenty
 
 ## 👨🏻‍🏫 What do I do and What have I done?
 - Nothing much but i can code.
+- i am heavily intrested in Quantum computing
 - Competed in hackathons
 - Did some stuff in University
 - Can draw some time
