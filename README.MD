@@ -11,6 +11,13 @@
 <img width="300px" align=right src="https://memeies.herokuapp.com/">
 I am Swaraj Purohit. I have strong media and communication professional currenty working towards a Bachelor of Technology focused in Computer Science and engineering from [MIT World Peace University](https://mitwpu.edu.in/). I am an experienced developer skilled in C++, Python, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
+```bash
+┌───────────────────────┐
+│   do visit my blog @  │
+│  garden.anomius.tech  │
+└───────────────────────┘
+```
+
 
 
 ## 👨🏻‍🏫 What do I do and What have I done?
@@ -77,7 +84,8 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <p align="center">
   <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-```
+
+
 ⡆⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕
 ⢐⢕⢕⢕⢕⢕⣕⢕⢕⠕⠁⢕⢕⢕⢕⢕⢕⢕⢕⠅⡄⢕⢕⢕⢕⢕⢕⢕⢕⢕
 ⢕⢕⢕⢕⢕⠅⢗⢕⠕⣠⠄⣗⢕⢕⠕⢕⢕⢕⠕⢠⣿⠐⢕⢕⢕⠑⢕⢕⠵⢕
@@ -92,4 +100,3 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 ⢑⢕⠃⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⢕⢕⢕
 ⣆⢕⠄⢱⣄⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢁⢕⢕⠕⢁
 ⣿⣦⡀⣿⣿⣷⣶⣬⣍⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿
-```
