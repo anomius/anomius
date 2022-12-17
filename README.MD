@@ -8,7 +8,7 @@
    <a href="https://www.instagram.com/savvy_the_fatnerd/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 </div>
-<img width="300px" align=right src="https://memeies.herokuapp.com/">
+<img width="300px" align=right src="https://flask-production-3d9f.up.railway.app/">
 I am Swaraj Purohit. I have strong media and communication professional currenty working towards a Bachelor of Technology focused in Computer Science and engineering from [MIT World Peace University](https://mitwpu.edu.in/). I am an experienced developer skilled in C++, Python, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ```bash
