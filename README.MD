@@ -8,33 +8,23 @@
    <a href="https://www.instagram.com/savvy_the_fatnerd/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 </div>
-<img width="300px" align=right src="https://flask-production-3d9f.up.railway.app/">
-I am Swaraj Purohit. I have strong media and communication professional currenty working towards a Bachelor of Technology focused in Computer Science and engineering from [MIT World Peace University](https://mitwpu.edu.in/). I am an experienced developer skilled in C++, Python, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
-```bash
-┌───────────────────────┐
-│   do visit my blog @  │
-│  garden.anomius.tech  │
-└───────────────────────┘
-```
+"Just another dev who wasted skill points on Anime and Pizza."
 
 
+## 🧠 About Me
+- Quantum Computing Enthusiast: I like my computing like my anime—complex, niche, and impossible to explain to normies.
+- Hackathon Survivor: Coffee > Sleep, change my mind.
+- Anime Addict: My taste in anime is better than my code (trust me, that's a good thing).
+- Pizza Hunter: Currently on a quest for the perfect slice. Pineapple fans, kindly exit stage left.
 
-## 👨🏻‍🏫 What do I do and What have I done?
-- Nothing much but i can code.
-- i am heavily intrested in Quantum computing
-- Competed in hackathons
-- Did some stuff in University
-- Can draw some time
-- Kinda invested in a lot of Anime
-- Pizza hunting
-
-## ♟ One line that describes me best?
-the guy you wanna be friends with but too weirded out by his hobbies 
+## 💻 What Can I Do?
+- Write code (usually works, sometimes intentionally).
+- Meme in multiple programming languages.
+- Draw occasionally (but mostly procrastinate about it).
 
 
-
-### Languages
+### Skills I Pretend to Master
 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/anomius?tab=repositories&q=&type=&language=python)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://github.com/anomius?tab=repositories&q=&type=&language=cpp)
@@ -60,6 +50,7 @@ the guy you wanna be friends with but too weirded out by his hobbies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
+## 📈 Stats (for nerd cred)
 <a href="https://www.swarajpurohit.me/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=anomius&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anomius&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=synthwave" /></a>
 
 
@@ -67,10 +58,12 @@ the guy you wanna be friends with but too weirded out by his hobbies
 
 <h1 align= center> VIBE WITH ME</h1>
 <div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 70px ">
-<a herf="https://twitter.com/swarajpurohit" target="_top">
-<img height="340px" class="grid-child purple" src="https://github-readme-twitter.gazf.vercel.app/api?id=swarajpurohit&show_reply=off" /></a>
-<a herf="https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&redirect=true" target="_top">
-<img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default"/></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&redirect=true" target="_blank">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=a0c19f&bar_color_cover=true"
+    alt="Spotify Now Playing"
+  />
+</a>
 </div>
 
 
