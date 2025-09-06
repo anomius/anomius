@@ -75,7 +75,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=anomius&bg_color=101113&color=6D8C8C&line=708E8E&point=C5BEB3&area=true&hide_border=true" />
 <p align="center">
-  <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/anomius/anomius/raw/output/pacman-contribution-graph.svg" alt="PACKMAN"></center>
 </p>
 
 <p align="center">
